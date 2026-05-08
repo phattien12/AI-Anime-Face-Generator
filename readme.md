@@ -1,5 +1,3 @@
-# 🎨 AI Anime Face Generator
-
 <div align="center">
 
 <h1>AI Anime Face Generator using DCGAN, Self-Attention GAN, Style Mapping, and WGAN-GP</h1>
